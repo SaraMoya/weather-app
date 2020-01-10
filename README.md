@@ -1,7 +1,7 @@
 # Mobile weather app mock up
 This is a mock up for a weather mobile app
 
-![weather mobile app]("https://gitlab.com/SaraMoya/weather-app/tree/master/img/screenshot.png")
+![weather mobile app]("https://gitlab.com/SaraMoya/weather-app/img/screenshot.png")
 
 ## Libraries use
 Font awesome 
@@ -13,3 +13,4 @@ Font awesome
 Sara
 
 sara.moya.mata@gmail.com
+
